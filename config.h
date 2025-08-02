@@ -1,5 +1,5 @@
 #define PORT_PROXY 6668
-#define IRC_SERVER "127.0.0.1"
+#define IRC_SERVER "0.0.0.0"
 #define IRC_PORT 6667
 #define MAX_USERS 100
 #define BUFFER 1024
