@@ -6,4 +6,8 @@ Proxy works yayyy!!! But does not do anything other than parsing the message b/w
 ![Working](imgs/working1.png)
 
 ## Install
-> make
+```bash 
+$ make
+```
+
+NOTE: If want to compile using GCC change `Makefile` CC to GCC.
