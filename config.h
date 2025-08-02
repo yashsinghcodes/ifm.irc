@@ -1,0 +1,12 @@
+#define PORT_PROXY 6668
+#define IRC_SERVER "127.0.0.1"
+#define IRC_PORT 6667
+#define MAX_USERS 100
+#define BUFFER 1024
+
+#define IRC_MAX_PARAMS 15
+#define IRC_PARAM_LEN 64
+#define IRC_TRAILING_LEN 512
+#define IRC_NICK_LEN 32
+#define IRC_USER_LEN 32
+#define IRC_HOST_LEN 64
